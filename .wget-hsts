@@ -1,0 +1,5 @@
+# HSTS 1.0 Known Hosts database for GNU Wget.
+# Edit at your own risk.
+# <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
+www.tiktok.com	0	1	1791271051	31536000
+www.facebook.com	0	0	1791274066	15552000
